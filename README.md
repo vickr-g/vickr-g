@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Vick Gindre
-- 👀 I’m interested in Programação
-- 🌱 I’m currently learning Desenvolvimento de Sistemas.
+- 👋 Olá, Eu sou Victoria Gindre
+- 👀 Estou Interessada em Programação
+- 🌱 Atualmente estou aprendendo Desenvolvimento de Sistemas.
 
 <!---
 vickr-g/vickr-g is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
