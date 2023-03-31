@@ -1,6 +1,6 @@
 ## Olá, Eu sou Victoria Gindre
-- 👀 Estou Interessada em Programação
-- 🌱 Atualmente estou aprendendo Desenvolvimento de Sistemas.
+- Uma desenvolvedora em desenvolvimento...
+- 🌱 Atualmente estou aprendendo Desenvolvimento de Sistemas no SENAI.
 <div align="center">
   <a href="https://github.com/vickr-g">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vickr-g&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
